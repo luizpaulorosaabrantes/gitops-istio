@@ -4,4 +4,4 @@ metadata:
   namespace: istio-system
   name: istio-default
 spec:
-  profile: demo
+  profile: default

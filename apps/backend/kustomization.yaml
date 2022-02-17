@@ -6,5 +6,5 @@ resources:
   - hpa.yaml
 images:
   - name: ghcr.io/stefanprodan/podinfo
-    newName: stefanprodan/podinfo
-    newTag: 5.0.5
+    newName: ghcr.io/stefanprodan/podinfo
+    newTag: 5.1.0
